@@ -2,7 +2,6 @@
 <h3 align="center">Azure Solutions Architect & PowerShell Scripter</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/john-bignold">
     <img src="https://img.shields.io/badge/LinkedIn-John Bignold-blue?style=flat&logo=linkedin">
   </a>
 </p>
